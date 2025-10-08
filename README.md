@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aman, and I'm currently working as a Software Engineer at MAQ Software!
+My name is Aman, and I'm currently working as a Software Engineer at Mobius!
 
 <a href="https://www.linkedin.com/in/aman-kumar-316848192/"><img src="linkedin.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
