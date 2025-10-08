@@ -1,21 +1,8 @@
 ### Hi there 👋
 
-<!--
-**raravi/raravi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
 My name is Aman, and I'm currently working as a Software Engineer at MAQ Software!
 
-<a href="https://www.linkedin.com/in/amith-raravi-82b525139/"><img src="linkedin.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aman-kumar-316848192/"><img src="linkedin.png" width="24px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Tech Stack
 
@@ -47,49 +34,55 @@ I also create open-source projects on JavaScript, React, TypeScript, Express, Mo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-kumar001&theme=merko&layout=compact" width="40%" />
 </p>
 
-I design websites that are quite simple and just work. Take a look at my website - https://www.amithraravi.com! If you're interested here is the code!
+I design websites that are quite simple and just work. 
 
 <p>
-  <a href="https://github.com/raravi/amithraravi2.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi2.com&theme=radical" width="47%" />
+  <a href="https://github.com/Aman-kumar001/graph-search-visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-kumar001&repo=graph-search-visualizer&theme=radical" width="47%" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/raravi/amithraravi-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=amithraravi-3&theme=radical" width="47%" />
+  <a href="https://github.com/Aman-kumar001/frontend-mentor-challenges">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-kumar001&repo=frontend-mentor-challenges&theme=radical" width="47%" />
   </a>
 </p>
 
 ##### Apps
 
 <p>
-  <a href="https://github.com/raravi/chat-app-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=chat-app-server&theme=tokyonight" width="47%" />
+  <a href="https://github.com/Aman-kumar001/Discuss">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-kumar001&repo=Discuss&theme=tokyonight" width="47%" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/raravi/chat-app-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=chat-app-client&theme=tokyonight" width="47%" />
+  <a href="https://github.com/Aman-kumar001/flexmoney">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-kumar001&repo=flexmoney&theme=tokyonight" width="47%" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/raravi/notes-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-server&theme=nightowl" width="47%" />
+  <a href="https://github.com/Aman-kumar001/Interview-Scheduler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-kumar001&repo=Interview-Scheduler&theme=tokyonight" width="47%" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/raravi/notes-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=notes-client&theme=nightowl" width="47%" />
+  <a href="https://github.com/Aman-kumar001/PHC-Administration-Covid-19">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-kumar001&repo=PHC-Administration-Covid-19&theme=tokyonight" width="47%" />
   </a>
 </p>
 
 ##### Games
 
 <p>
-  <a href="https://github.com/Aman-kumar001/SnakeGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-kumar001&repo=Snake-Game&theme=great-gatsby" width="47%" />
+  <a href="https://github.com/Aman-kumar001/QuizPage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-kumar001&repo=QuizPage&theme=great-gatsby" width="47%" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Aman-kumar001/tictactoe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raravi&repo=tictactoe&theme=great-gatsby" width="47%" />
+  <a href="https://github.com/Aman-kumar001/Impossible-Button">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-kumar001&repo=Impossible-Button&theme=great-gatsby" width="47%" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Aman-kumar001/Simon-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman-kumar001&repo=Simon-Game&theme=great-gatsby" width="47%" />
   </a>
 </p>
 
