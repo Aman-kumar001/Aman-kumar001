@@ -6,7 +6,7 @@ My name is **Aman**, and I'm a **Software Engineer** currently at **Mobius (By G
 <a href="mailto:akamanjangra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 #### 🚀 Professional Summary
-I am a dedicated software engineer with 3+ years of experience in full-stack development. I specialize in building high-quality, innovative solutions, including **Agentic AI frameworks**, **Low-Code platforms**, and **scalable UI libraries**.
+I am a dedicated software engineer with 4 years of experience in full-stack development. I specialize in building high-quality, innovative solutions, including **Agentic AI frameworks**, **Low-Code platforms**, and **scalable UI libraries**.
 
 #### 🛠 Tech Stack
 
